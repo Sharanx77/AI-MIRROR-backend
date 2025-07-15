@@ -1,6 +1,6 @@
 Flask==3.0.3
 opencv-python-headless==4.10.0.82
-DeepFace==0.40.1
+deepface==0.0.93
 librosa==0.10.2
 SpeechBrain==1.1.0
 joblib==1.4.2
